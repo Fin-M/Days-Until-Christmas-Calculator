@@ -90,4 +90,4 @@ elif duc == "[Error]":
     print("\n**Something you entered was incorrect!  Please try again and read the instructions carefully.**")
 
 
-print("\n[Coded, edited and updated by Fin McGhie]\n")
+print("\n[Coded, edited and updated by Fin-M]\n")
